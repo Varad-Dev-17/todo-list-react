@@ -4,7 +4,7 @@
   align-items: center;
   gap: 16px;
   height: 100vh;
-  padding: 16px;
+  padding: 20px;
   margin-top: 50px;
 }
 
@@ -23,7 +23,7 @@
 
 .AppContainer {
   width: 100%;
-  padding: 16px;
+  padding: 15px;
   background: light-dark(#ffffff, #212121);
   border-radius: 16px;
   overflow-y: auto;
